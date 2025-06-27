@@ -2,8 +2,8 @@
 
 A personal project built using **HTML, CSS, and JavaScript** to visualize various algorithms in an interactive and intuitive way.
 
-> 📅 **Date**: August 2024  
-> 🔗 **Live Demo**: [t.ly/3dTES](https://t.ly/3dTES)  
+> 📅 **Date**: 20 May 2025  
+> 🔗 **Live Demo**: [https://harshitrajora.github.io/Algorithm_Visualizer](https://harshitrajora.github.io/Algorithm_Visualizer)  
 > 🛠️ **Tech Stack**: HTML, CSS, JavaScript
 
 ---
