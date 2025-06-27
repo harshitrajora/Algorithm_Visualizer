@@ -32,11 +32,6 @@ A personal project built using **HTML, CSS, and JavaScript** to visualize variou
 
 ---
 
-## 📷 Screenshot
-*(You can drag a screenshot here later if you want.)*
-
----
-
 ## 📦 How to Use
 
 ```bash
